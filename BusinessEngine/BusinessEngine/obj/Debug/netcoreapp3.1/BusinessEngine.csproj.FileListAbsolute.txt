@@ -1,0 +1,13 @@
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\bin\Debug\netcoreapp3.1\BusinessEngine.exe
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\bin\Debug\netcoreapp3.1\BusinessEngine.deps.json
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\bin\Debug\netcoreapp3.1\BusinessEngine.runtimeconfig.json
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\bin\Debug\netcoreapp3.1\BusinessEngine.runtimeconfig.dev.json
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\bin\Debug\netcoreapp3.1\BusinessEngine.dll
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\bin\Debug\netcoreapp3.1\BusinessEngine.pdb
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.csprojAssemblyReference.cache
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.AssemblyInfoInputs.cache
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.AssemblyInfo.cs
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.csproj.CoreCompileInputs.cache
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.dll
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.pdb
+C:\Users\S776616\Source\repos\BusinessEngine\BusinessEngine\obj\Debug\netcoreapp3.1\BusinessEngine.genruntimeconfig.cache
